@@ -1,8 +1,21 @@
 ---
-permalink: /about/
-title: "About"
+layout: about
+title: about
+permalink: /
+subtitle: About me
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  address:
+
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I joined the [Getz Lab](https://getzlab.org/) in May 2023 as a Computational Associate. Currently, I work on elucidating mechanisms of drug resistance in HER2+ breast cancer and glioblastoma.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Previously, I worked under [Dr. Nikhil Wagle](https://waglelab.dana-farber.org/) at the Broad and Dana-Farber Cancer Institute. There, I focused on harmonization of bulk RNA sequencing data across several breast cancer cohorts, as well as elucidation of genomic and transcriptomic correlates of intrinsic subtype switching in breast cancer. I graduated Phi Beta Kappa from [Boston College](https://bc.edu) in 2022 with a B.S. in biology and a minor in computer science.
